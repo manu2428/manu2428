@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @manu2428
+- 👋 Hi, I’m Manu
 - 👀 I’m interested in ... learning and creating something new
 - 🌱 I’m currently learning ... C++ and python
 - 📫 How to reach me ... still don't have a way
