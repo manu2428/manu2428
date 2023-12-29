@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Manu
 - 👀 I’m interested in ... learning and creating something new
-- 🌱 I’m currently learning ... C++ and python
+- 🌱 I’m currently learning ... C++, Python & Batch
 - 📫 How to reach me ... still don't have a way
 
 <!---
