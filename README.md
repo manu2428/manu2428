@@ -3,7 +3,7 @@
 1. Name : Manuja
 2. Where am I from : Sri Lanka
 3. How old : 19+
-4. Girl frined ? Eh, ICT homies don't have these things 😮‍💨
+4. Girl friend ? Eh, ICT homies don't have these things 😮‍💨
 
 # What do I know about ICT ?
 
