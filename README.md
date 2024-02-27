@@ -1,9 +1,21 @@
-- 👋 Hi, I’m Manu
-- 👀 I’m interested in ... learning and creating something new
-- 🌱 I’m currently learning ... C++, Python & Batch
-- 📫 How to reach me ... still don't have a way
+# About me
 
-<!---
-manu2428/manu2428 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+1. Name : Manuja
+2. Where am I from : Sri Lanka
+3. How old : 19+
+4. Girl frined ? Eh, ICT homies don't have these things 😮‍💨
+
+# What do I know about ICT ?
+
+>> Well..I'm new to this stream, means I'm still learning
+>> I learn new stuff and I create projects about it, If I could 🤔
+>> Sometimes I make mistakes too, soooo don't blame me if I can't provide what you've expected
+
+# What do I learn ?
+
+>> Currently learning HTML, CSS, JAVASCRIPT, C & PYTHON
+>> ALSO interested in Ethical Hacking 🤫
+
+# How to reach me ?
+
+>> I'm tryna figure out a way to do it too 😶
