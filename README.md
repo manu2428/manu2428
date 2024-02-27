@@ -7,8 +7,8 @@
 
 # What do I know about ICT ?
 
->> Well..I'm new to this stream, means I'm still learning
->> I learn new stuff and I create projects about it, If I could 🤔
+>> Well..I'm new to this stream, means I'm still learning,
+>> I learn new stuff and I create projects about it, If I could afford time 🤔
 >> Sometimes I make mistakes too, soooo don't blame me if I can't provide what you've expected
 
 # What do I learn ?
